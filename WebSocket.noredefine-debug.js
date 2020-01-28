@@ -8197,5 +8197,4 @@ return _94e;
 })();
 window.___Loader=new _3ad(_276);
 })();
-window.WebSocket=window.WebSocketEx;
 })();

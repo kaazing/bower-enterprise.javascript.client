@@ -663,7 +663,7 @@ function a(){if(typeof JmsConnectionFactory.init=="function"){JmsConnectionFacto
 this.shutdownDelay=5000;
 this.reconnectDelay=3000;
 this.reconnectAttemptsMax=-1
-}function JmsClient(){var M="",dc="\n-",ub='" for "gwt:onLoadErrorFn"',sb='" for "gwt:onPropertyErrorFn"',Sb='"<script src=\\"',fb='"><\/script>',W="#",cc=");",Wb="-\n",ec="-></scr",Tb='.cache.js\\"></scr" + "ipt>"',Y="/",ib="//",Jb="044B299E3B837324A1C39174F5BCE8A0",Kb="0D1754AC47916821D0CBE69DED4DB484",Lb="52D96B4F8585F9A9117EC18B3C071EEE",Mb="761092AC7AB921CC729D4A9A662951D2",Nb="9E7EF02171DCD8CC27F2FAB0AF52DBAD",Pb=":",mb="::",Ub="<scr",eb='<script id="',pb="=",X="?",rb='Bad handler "',Gb="Cross-site hosted mode not yet implemented. See issue ",Ob="DF5963E0C7FF945789FBBD2CCD142D2F",Qb="DOMContentLoaded",N="JmsClient",bb="JmsClient.nocache.js",lb="JmsClient::",gb="SCRIPT",db="__gwt_marker_JmsClient",hb="base",_="baseUrl",Q="begin",P="bootstrap",$="clear.cache.gif",ob="content",bc="document.write(",V="end",Zb='evtGroup: "loadExternalRefs", millis:(new Date()).getTime(),',_b='evtGroup: "moduleStartup", millis:(new Date()).getTime(),',Db="gecko",Eb="gecko1_8",R="gwt.codesvr.JmsClient=",S="gwt.hosted=",T="gwt.hybrid",tb="gwt:onLoadErrorFn",qb="gwt:onPropertyErrorFn",nb="gwt:property",Hb="http://code.google.com/p/google-web-toolkit/issues/detail?id=2079",Cb="ie6",Bb="ie8",Ab="ie9",Z="img",fc="ipt>",Vb="ipt><!-",Rb="loadExternalRefs",jb="meta",Yb='moduleName:"JmsClient", sessionId:window.__gwtStatsSessionId, subSystem:"startup",',U="moduleStartup",zb="msie",kb="name",wb="opera",yb="safari",ab="script",Ib="selectingPermutation",O="startup",$b='type: "end"});',ac='type: "moduleRequested"});',cb="undefined",Fb="unknown",vb="user.agent",xb="webkit",Xb="window.__gwtStatsEvent && window.__gwtStatsEvent({";
+}function JmsClient(){var M="",dc="\n-",ub='" for "gwt:onLoadErrorFn"',sb='" for "gwt:onPropertyErrorFn"',Sb='"<script src=\\"',fb='"><\/script>',W="#",cc=");",Wb="-\n",ec="-></scr",Tb='.cache.js\\"></scr" + "ipt>"',Y="/",ib="//",Jb="303B5161A1D175FE93C0F613E98A894F",Kb="33D59DCD929323234FC26E5E6B927AC5",Lb="869E9A0A79B0A1FD237E9CDBA5A82D36",Pb=":",mb="::",Ub="<scr",eb='<script id="',pb="=",X="?",Mb="A6AEB40E708B177A22590364672AE50A",Nb="B26A776B2862EDF73868E267D9D0AD3E",rb='Bad handler "',Ob="CF59D63E0AA55C3D3494BFEBB7D1E89E",Gb="Cross-site hosted mode not yet implemented. See issue ",Qb="DOMContentLoaded",N="JmsClient",bb="JmsClient.nocache.js",lb="JmsClient::",gb="SCRIPT",db="__gwt_marker_JmsClient",hb="base",_="baseUrl",Q="begin",P="bootstrap",$="clear.cache.gif",ob="content",bc="document.write(",V="end",Zb='evtGroup: "loadExternalRefs", millis:(new Date()).getTime(),',_b='evtGroup: "moduleStartup", millis:(new Date()).getTime(),',Db="gecko",Eb="gecko1_8",R="gwt.codesvr.JmsClient=",S="gwt.hosted=",T="gwt.hybrid",tb="gwt:onLoadErrorFn",qb="gwt:onPropertyErrorFn",nb="gwt:property",Hb="http://code.google.com/p/google-web-toolkit/issues/detail?id=2079",Cb="ie6",Bb="ie8",Ab="ie9",Z="img",fc="ipt>",Vb="ipt><!-",Rb="loadExternalRefs",jb="meta",Yb='moduleName:"JmsClient", sessionId:window.__gwtStatsSessionId, subSystem:"startup",',U="moduleStartup",zb="msie",kb="name",wb="opera",yb="safari",ab="script",Ib="selectingPermutation",O="startup",$b='type: "end"});',ac='type: "moduleRequested"});',cb="undefined",Fb="unknown",vb="user.agent",xb="webkit",Xb="window.__gwtStatsEvent && window.__gwtStatsEvent({";
 var m=window,n=document,o=m.__gwtStatsEvent?function(a){return m.__gwtStatsEvent(a)
 }:null,p=m.__gwtStatsSessionId?m.__gwtStatsSessionId:null,q,r,s=M,t={},u=[],v=[],w=[],x=0,y,z;
 o&&o({moduleName:N,sessionId:p,subSystem:O,evtGroup:P,millis:(new Date).getTime(),type:Q});
@@ -779,11 +779,11 @@ return
 C();
 o&&o({moduleName:N,sessionId:p,subSystem:O,evtGroup:P,millis:(new Date).getTime(),type:Ib});
 var H;
-try{F([Bb],Jb);
-F([Cb],Kb);
-F([Ab],Lb);
-F([wb],Mb);
-F([Eb],Nb);
+try{F([Cb],Jb);
+F([Bb],Kb);
+F([wb],Lb);
+F([Eb],Mb);
+F([Ab],Nb);
 F([yb],Ob);
 H=w[G(vb)];
 var I=H.indexOf(Pb);

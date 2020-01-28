@@ -1,20 +1,20 @@
 {
-  "name": "kaazing-enterprise-client",
-  "version": "4.1.0",
-  "homepage": "https://kaazing.com/",
-  "description": "Enterprise client libraries to communicate with Kaazing WebSocket Gateway",
-  "author": "Kaazing <support@kaazing.com>",
-  "keywords": [
-    "client",
-    "kaazing",
-    "enterprise",
-    "messaging",
-    "publish",
-    "real-time",
-    "realtime",
-    "subscribe",
-    "websocket",
-    "websockets"
-  ],
-  "license": "SEE LICENSE IN LICENSE.txt"
+   "name": "kaazing-enterprise-client",
+   "version": "4.1.5",
+   "homepage": "https://kaazing.com/",
+   "description": "Enterprise client libraries to communicate with Kaazing WebSocket Gateway",
+   "author": "Kaazing <support@kaazing.com>",
+   "keywords": [
+      "client",
+      "kaazing",
+      "enterprise",
+      "messaging",
+      "publish",
+      "real-time",
+      "realtime",
+      "subscribe",
+      "websocket",
+      "websockets"
+   ],
+   "license": "SEE LICENSE IN LICENSE.txt"
 }
